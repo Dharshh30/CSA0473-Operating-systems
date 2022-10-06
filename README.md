@@ -1,29 +1,29 @@
-+ process creation
+ process creation
 
-+FIFO paging
+FIFO paging
 
-+LRU paging
+LRU paging
 
-+OPTIMAL PAGING
+OPTIMAL PAGING
 
-+sequential file allocation
+sequential file allocation
 
-+ file copying
+file copying
 
-+FCFS scheduling
+FCFS scheduling
 
 +SJF scheduling
 
-+ priority scheduling
+ priority scheduling
 
-+ producer consumer problem
+producer consumer problem
 
-+ round robin
+ round robin
 
-+inter process communication
+inter process communication
 
-+ dining philosopher
+ dining philosopher
 
-+multithreading
+multithreading
 
-+banker's algorithm
+banker's algorithm
