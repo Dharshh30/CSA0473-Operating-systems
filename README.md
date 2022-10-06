@@ -17,3 +17,13 @@
 + priority scheduling
 
 + producer consumer problem
+
++ round robin
+
++inter process communication
+
++ dining philosopher
+
++multithreading
+
++banker's algorithm
