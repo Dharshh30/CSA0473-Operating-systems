@@ -39,3 +39,5 @@ c-scan scheduling
  indexed file allocation
 
 first fit stratergy
+
+random access file allocation
