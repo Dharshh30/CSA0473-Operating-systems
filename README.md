@@ -40,4 +40,4 @@ c-scan scheduling
 
 first fit stratergy
 
-random access file allocation
+random access file processing
