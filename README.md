@@ -27,3 +27,13 @@ inter process communication
 multithreading
 
 banker's algorithm
+
+single level directory
+
+two level directory
+
+scan scheduling
+
+c-scan scheduling
+
+ indexed file allocation
